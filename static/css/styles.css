@@ -1,0 +1,14 @@
+#header {
+    height: 20%;
+    background: rgba(127, 255, 212, 0.34);
+}
+
+#content {
+    height: 60%;
+    background: bisque;
+}
+
+#footer {
+    height: 20%;
+    background: aquamarine;
+}
