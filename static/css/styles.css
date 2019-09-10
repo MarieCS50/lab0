@@ -5,9 +5,13 @@
 
 #content {
     height: 80%;
-    background: bisque;
+    background: white;
 }
 
-#footer {
-    height: 10%;
+#mynavbar {
+    background-color:bisque;
+}
+
+.nav-link {
+    color: #ffffff;
 }
