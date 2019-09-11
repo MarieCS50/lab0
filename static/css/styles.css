@@ -1,11 +1,12 @@
 #header {
     height: 20%;
+    width: 100%;
     background: white;
 }
 
 #content {
-    height: 80%;
-    background: white;
+    height: 100%;
+    width: 100%;
 }
 
 #mynavbar {
