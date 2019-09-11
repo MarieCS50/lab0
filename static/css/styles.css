@@ -10,10 +10,10 @@
 .page-header {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     color: #5c5c5c;
-    word-spacing: 8px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 20px;
+    word-spacing: 6px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
 }
 
 .column-header {
