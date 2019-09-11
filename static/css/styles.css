@@ -1,6 +1,16 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
 .page-header {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     color: #5c5c5c;
+    word-spacing: 8px;
     padding-top: 20px;
     padding-bottom: 20px;
     padding-left: 20px;
@@ -18,13 +28,13 @@
     padding-top: 30px;
 }
 
-.art {
-    padding-bottom: 30px
-    width: 50%
+.table {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    width: 100%;
 }
 
 #mynavbar {
     background-color:bisque;
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-    font-size: 1.8em;
+    font-size: 22px;
 }
