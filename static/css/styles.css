@@ -1,18 +1,28 @@
-#header {
-    height: 20%;
-    width: 100%;
-    background: white;
+.page-header {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
 }
 
 #content {
-    height: 100%;
+    background-image: lake.jpg;
+    height: 80%;
     width: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 #mynavbar {
     background-color:bisque;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 1.8em;
 }
 
 .nav-link {
     color: #ffffff;
+}
+
+.list-group {
+    padding-top: 30px;
 }
