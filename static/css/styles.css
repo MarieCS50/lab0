@@ -14,11 +14,7 @@
 }
 
 #content {
-    background-image: lake.jpg;
-    height: 80%;
-    width: 100%;
-    margin: 0;
-    padding: 0;
+
 }
 
 #mynavbar {
@@ -33,4 +29,9 @@
 
 .list-group {
     padding-top: 30px;
+}
+
+.art {
+    padding-bottom: 30px
+    width: 50%
 }
