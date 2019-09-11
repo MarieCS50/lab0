@@ -1,5 +1,6 @@
 .page-header {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    color: #5c5c5c;
     padding-top: 20px;
     padding-bottom: 20px;
     padding-left: 20px;
@@ -13,20 +14,6 @@
     padding-left: 20px;
 }
 
-#content {
-
-}
-
-#mynavbar {
-    background-color:bisque;
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-    font-size: 1.8em;
-}
-
-.nav-link {
-    color: #ffffff;
-}
-
 .list-group {
     padding-top: 30px;
 }
@@ -34,4 +21,10 @@
 .art {
     padding-bottom: 30px
     width: 50%
+}
+
+#mynavbar {
+    background-color:bisque;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 1.8em;
 }
